@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NEST-B&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=NEST-B&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ###
