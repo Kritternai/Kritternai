@@ -9,14 +9,15 @@
 <h1 align="center">Hi 👋, I'm <span class="highlight">Kritternai</span></h1>
 <h3 align="center">I am developing a project for education to make the world a better place.</h3>
 
-- 🔭 I’m currently working on [GeniusVerse](#)
+- 🔭 I’m currently working on [GeniusVerse](https://github.com/Kritternai/GeniusVerse)
 
 
 
 
 
 <h3 align="left"><span class="highlight2">Project :</span></h3>
-<a href="#"><img align="center" src="https://github.com/Kritternai/Kritternai/raw/fde1117b3d157c3f506a74e4760eefd115613617/Kritternai/GeniusVerse.gif" width="200 " height="200" /></a>
+<a href="https://github.com/Kritternai/GeniusVerse"><img align="center" src="https://github.com/Kritternai/Kritternai/raw/fde1117b3d157c3f506a74e4760eefd115613617/Kritternai/GeniusVerse.gif" width="200 " height="200" /></a>
+<a href="https://github.com/Kritternai/SimpleLoginWebsite"><img align="center" src="https://github.com/Kritternai/Kritternai/raw/fb8c88c9c909c4a8cca20ea95b1fd5d5fa553549/Kritternai/SimpleLoginWebsite.gif" width="200 " height="200" /></a>
 <div align="left">
 </div>
 
