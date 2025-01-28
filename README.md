@@ -36,13 +36,6 @@
 
 ---
 
-### <span style="color:#1F6FEB;">My Stats :</span>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Kritternai&theme=github-dark-blue&hide_border=true" alt="Kritternai Streak" />
-</div>
-
----
-
 ### <span style="color:#1F6FEB;">Connect with me :</span>
 <p align="left">
   <a href="https://fb.com/kritternai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kritternai" height="30" width="40" /></a>
